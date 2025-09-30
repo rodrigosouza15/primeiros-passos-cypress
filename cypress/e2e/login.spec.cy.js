@@ -6,7 +6,6 @@ describe('Orange HRM - Tests', () => {
     loginButton: ".oxd-button",
     sectionTitleTopBar: ".oxd-topbar-header-breadcrumb > .oxd-text",
     wrongCredentialAlert: ".oxd-alert",
-
   }
 
   it('Login - Success', () => {
