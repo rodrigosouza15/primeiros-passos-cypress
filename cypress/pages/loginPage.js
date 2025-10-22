@@ -1,4 +1,5 @@
 class LoginPage {
+    
     selectorsList() {
         const selectors = {
             usernameField: "[name='username']",
